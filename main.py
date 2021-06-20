@@ -1,4 +1,5 @@
-def main():
-  print("Scott")
+def main(name):
+  print(name)
   
-main() 
+name = "Scott"
+main(name) 
